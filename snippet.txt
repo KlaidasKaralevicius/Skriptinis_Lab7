@@ -5,7 +5,6 @@
 			"<!-- Klaidas Karalevičius EDIf-22 -->"
 			"<!DOCTYPE html>",
 			"<html>",
-			"",
 			"<head>",
 			"<meta charset=\"UTF-8\">",
 			"<meta name=\"Author\" content=\"Klaidas Karalevičius\">",
